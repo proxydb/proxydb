@@ -1,16 +1,13 @@
-### Hi there 👋
+# What is proxy-db.com
 
-<!--
-**proxydb/proxydb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It's a catalog of 3d miniature models referenced against its official counterparts, so it can be used as a replacement in-game.
 
-Here are some ideas to get you started:
+# Contributing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Create an issue in this repository, following one of the templates if possible, and we'll get it from there.
+2. Requesting editor privileges to proxy-db.com to invites@proxy-db.com if you're interested in a longer-term collaboration.
+
+# Sponsoring
+
+proxy-db.com is aimed at the 3d printing community that play wargames and board games.
+If you want to showcase your product or creation, or need more information in general, please reach out to us at sponsors@proxy-db.com
