@@ -1,6 +1,6 @@
 # What is proxy-db.com
 
-It's a catalog of 3d miniature models referenced against its official counterparts, so it can be used as a replacement in-game.
+[proxy-db.com](https://proxy-db.com/) is a catalog of 3d miniature models referenced against its official counterparts, so it can be used as a replacement in-game.
 
 # Contributing
 
